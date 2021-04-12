@@ -1,6 +1,3 @@
-# analise_de_dados_obrgt
-Disciplina de Análise de Dados - Obrigatória. 2021.1
-
 #Aula 1 Analise de Dados - Obrigataria
 
 #operacoes
